@@ -102,7 +102,13 @@
    불량 데이터가 극히 드물다면, 지도학습 대신 비지도학습이나 준지도학습 기반의 이상 탐지 방법을 고려 가능<br />
 
 
-  
+  ### **2) Data Augmentation**
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/d90eef20-41db-4b42-9889-2686ffa9e7e0" width="550" height="auto" alt="6">
+  </p>
+   
+
+
 ## About Deep Learning with GAN❓ 
 
 
