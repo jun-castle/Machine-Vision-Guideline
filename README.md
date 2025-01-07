@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=A3DCBE&height=200&section=header&text=Guideline%20for%20beginner&fontSize=70" />
 
 ## 🛠 기능 엿보기
-  - [❓ About Machine Vision](#machine-vision이란)
-  - [❓ About Template Matching](#template-matching)
+  - [❓ About Machine Vision](#About-Machine-Vision)
+  - [❓ About Template Matching](#About-Template-Matching)
   - [🎯 Template Matching 기반으로 image를 crop하기](#template-matching-기반으로-image를-crop하기)
   
   - [❓ About PCA](#About-PCA)
