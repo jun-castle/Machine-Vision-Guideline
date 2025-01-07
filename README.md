@@ -15,7 +15,7 @@
   - [About Edge Detection❓ ](#about-edge-detection)
 
   - [About Class Imbalance and Data Augmentation❓ ](#about-class-imbalance-and-data-augmentation)
-  - [About Deep Learning with CNN❓ ](#about-deep-learning-with-cnn)
+  - [About Deep Learning with GAN❓ ](#about-deep-learning-with-gan)
   - [About GradCAM❓ ](#about-gradcam)
 
 
