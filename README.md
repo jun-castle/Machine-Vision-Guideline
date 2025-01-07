@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=A3DCBE&height=200&section=header&text=Guideline%20for%20beginner&fontSize=70" />
 
 ## 🛠 기능 엿보기
-  - [Machine Vision이란❓ ](#-Machine-Vision이란)
+  - [Machine Vision이란❓](#machine-vision이란)
   - 2번 항목
 
 ## 우우우
