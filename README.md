@@ -1,5 +1,8 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=A3DCBE&height=200&section=header&text=Guideline%20for%20beginner&fontSize=70" />
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
@@ -55,6 +58,10 @@
   <img src="https://github.com/user-attachments/assets/30516582-5414-493b-93f7-736ff675adc0" width="450" height="auto" alt="3">
   </p>
 
+  Step 1. 원본 이미지에서 template image와 가장 유사한 부분을 인식
+  Step 2. 인식된 부분의 중심 픽셀 위치 기준으로 원본 이미지에서 *ROI만 남기기 위해 crop
+
+  * ROI: Region Of Interest (관심영역)
 
 ## About Edge Detection❓
 
