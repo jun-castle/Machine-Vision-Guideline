@@ -49,9 +49,13 @@
   <p align="center">
   <img src="https://github.com/user-attachments/assets/967c8cc0-33b1-48df-b31b-73035d59fc57" width="450" height="auto" alt="2">
   </p>
-   Template matching은 원본 이미지에서 내가 찾고자 하는 부분(template image)를 찾는 기법이다. 원본 이미지 위에서 탬플릿 이미지를 이동시켜 가면서 탬플릿 이미지와 동일하거나 가장 유사한 영역을 찾는다. 원본 이미지와 탬플릿 이미지의 크기는 같을 필요가 없다.
+   Template matching은 원본 이미지에서 내가 찾고자 하는 부분(template image)를 찾는 기법이다. 원본 이미지 위에서 탬플릿 이미지를 이동시켜 가면서 탬플릿 이미지와 동일하거나 가장 유사한 영역을 찾는다. 원본 이미지와 탬플릿 이미지의 크기는 같을 필요가 없다. 단, 원본 이미지가 회전되어 있는 경우에는 인식력이 떨어질 수 있다는 단점이 있다.
 
 ## Template Matching 기반으로 image를 crop하기🎯 
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/30516582-5414-493b-93f7-736ff675adc0" width="450" height="auto" alt="3">
+  </p>
+
 
 ## About Edge Detection❓
 
