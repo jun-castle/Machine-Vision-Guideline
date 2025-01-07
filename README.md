@@ -46,6 +46,13 @@
   - **의료 영상 분석**: 의료 이미지를 분석해 질병 진단 지원
 
 ## About Template Matching❓ 
+
+![2](https://github.com/user-attachments/assets/967c8cc0-33b1-48df-b31b-73035d59fc57)
+
+  <p align="center">
+  <img src="[https://github.com/user-attachments/assets/af0011c4-2f76-4248-8fea-e18f565d2c83](https://github.com/user-attachments/assets/967c8cc0-33b1-48df-b31b-73035d59fc57)" width="450" height="auto" alt="1">
+  </p>
+
 ## Template Matching 기반으로 image를 crop하기🎯 
 
 ## About Edge Detection❓
