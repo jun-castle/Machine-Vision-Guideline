@@ -65,7 +65,7 @@
 
 ## About Edge Detection❓
   <p align="center">
-  <img src="[https://github.com/user-attachments/assets/30516582-5414-493b-93f7-736ff675adc0](https://github.com/user-attachments/assets/f13c6f1b-e847-49eb-a7d2-3c7e08de25f5)" width="450" height="auto" alt="4">
+  <img src="https://github.com/user-attachments/assets/4d0697ee-45fe-4c5c-8ae8-ed4bdc8fd3e5" width="450" height="auto" alt="4">
   </p>
 
 
