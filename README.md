@@ -61,7 +61,7 @@
   Step 1. 원본 이미지에서 template image와 가장 유사한 부분을 인식
   Step 2. 인식된 부분의 중심 픽셀 위치 기준으로 원본 이미지에서 *ROI만 남기기 위해 crop
 
-  * ROI: Region Of Interest (관심영역)
+  /* ROI: Region Of Interest (관심영역)
 
 ## About Edge Detection❓
 
