@@ -81,10 +81,10 @@
     : Weak edge가 실제 edge의 연장선인지 확인하기 위해서 strong edge와 연결되어 있는지 검사합니다. Strong edge와 연결되어 있는 weak edge는 최종 검출되는 edge에 포함시키고 그렇지 않은 weak edge는 제거합니다.<br />
 
 ## About Class Imbalance and Data Augmentation❓ 
-  ### **class Imbalance**
-    <p align="center">
-    <img src="https://github.com/user-attachments/assets/7feb3b33-f8e6-49f2-ab49-24344157a95a" width="550" height="auto" alt="5">
-    </p>
+  ### **1). class Imbalance**
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/7feb3b33-f8e6-49f2-ab49-24344157a95a" width="550" height="auto" alt="5">
+  </p>
 ## About Deep Learning with CNN❓ 
 ## About GradCAM❓ 
 
