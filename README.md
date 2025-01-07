@@ -3,7 +3,7 @@
 ## 🛠 기능 엿보기
   - [❓ About Machine Vision](#machine-vision이란)
   - [❓ About Template Matching](#template-matching)
-  - [Template Matching 기반으로 image를 crop하기](#template-matching-기반으로-image를-crop하기)
+  - [🎯 Template Matching 기반으로 image를 crop하기](#template-matching-기반으로-image를-crop하기)
   - [❓ Machine Vision이란](#machine-vision이란)
   - [❓ Machine Vision이란](#machine-vision이란)
   - [❓ Machine Vision이란](#machine-vision이란)
