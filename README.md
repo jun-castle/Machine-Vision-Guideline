@@ -56,4 +56,3 @@
 ## About GradCAM❓ 
 
 
-(문의) E-mail: kevin980811@hanyang.ac.kr
