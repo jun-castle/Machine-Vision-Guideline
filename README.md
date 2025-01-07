@@ -58,8 +58,8 @@
   <img src="https://github.com/user-attachments/assets/30516582-5414-493b-93f7-736ff675adc0" width="450" height="auto" alt="3">
   </p>
 
-  Step 1. 원본 이미지에서 template image와 가장 유사한 부분을 인식<br />
-  Step 2. 인식된 부분의 중심 픽셀 위치 기준으로 원본 이미지에서 *ROI만 남기도록 crop
+  *Step 1. 원본 이미지에서 template image와 가장 유사한 부분을 인식<br />
+  *Step 2. 인식된 부분의 중심 픽셀 위치 기준으로 원본 이미지에서 *ROI만 남기도록 crop
 
   \* ROI: Region Of Interest (관심영역)
 
@@ -69,11 +69,11 @@
   </p>
    Canny Edge Detection은 이미지의 가장자리(Edge)를 감지하는 데 사용되는 edge detection 알고리즘으로서 작은 오류로 edge map을 생성하는 최적의 알고리즘으로 평가 받는다.<br />
    자율 주행 차량에서 도로 차선 또는 도로 경계를 검출하는 데에 이용되어 차선 유지나 차선 변경 보조 등의 구현이 가능합니다. 또한 생산 라인 이후 제품의 크랙 또는 흠집과 같은 결함을 검출하는 데에 이용되어 자동 품질 검사 시스템에서 사용될 수 있습니다.<br />
-  Step 1.<br />
-  Step 2.<br />
-  Step 3.<br />
-  Step 4.<br />
-  Step 5.
+  *Step 1.<br />
+  *Step 2.<br />
+  *Step 3.<br />
+  *Step 4.<br />
+  *Step 5.
 
 ## About PCA❓ 
 ## About Data Augmentation❓ 
