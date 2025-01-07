@@ -8,7 +8,7 @@
 </p>
 
 
-## 🛠 Contents
+## 🛠 Contents (❓:Concept / 🎯: Application)
   - [About Machine Vision❓ ](#about-Machine-Vision)
   - [About Template Matching❓ ](#about-Template-Matching)
   - [Template Matching 기반으로 image를 crop하기 🎯 ](#template-matching-기반으로-image를-crop하기)
