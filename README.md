@@ -14,10 +14,9 @@
   - [Template Matching 기반으로 image를 crop하기 🎯 ](#template-matching-기반으로-image를-crop하기)
   - [About Edge Detection❓ ](#about-edge-detection)
 
-  - [About PCA❓ ](#about-PCA)
-  - [About Data Augmentation❓ ](#About-Data-Augmentation)
-  - [About Deep Learning with CNN❓ ](#About-Deep-Learning-with-CNN)
-  - [About GradCAM❓ ](#About-GradCAM)
+  - [About Class Imbalance and Data Augmentation❓ ](#about-class-imbalance-and-data-augmentation)
+  - [About Deep Learning with CNN❓ ](#about-deep-learning-with-cnn)
+  - [About GradCAM❓ ](#about-gradcam)
 
 
 
@@ -81,8 +80,8 @@
   * Step 5. 엣지 추적 (Edge Tracking by Hysteresis)<br />
     : Weak edge가 실제 edge의 연장선인지 확인하기 위해서 strong edge와 연결되어 있는지 검사합니다. Strong edge와 연결되어 있는 weak edge는 최종 검출되는 edge에 포함시키고 그렇지 않은 weak edge는 제거합니다.<br />
 
-## About PCA❓ 
-## About Data Augmentation❓ 
+## About Class Imbalance and Data Augmentation❓ 
+
 ## About Deep Learning with CNN❓ 
 ## About GradCAM❓ 
 
