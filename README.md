@@ -16,7 +16,7 @@
 
   - [About Class Imbalance and Data Augmentation❓ ](#about-class-imbalance-and-data-augmentation)
   - [About Deep Learning with GAN❓ ](#about-deep-learning-with-gan)
-  - [About GradCAM❓ ](#about-gradcam)
+  - [About OCR❓ ](#about-ocr)
 
 
 
@@ -142,6 +142,6 @@
 
 
   
-## About GradCAM❓ 
+## About OCR❓ 
 
 
