@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=A3DCBE&height=100&section=header&text=Guideline%20for%20beginner&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=A3DCBE&height=200&section=header&text=Guideline%20for%20beginner&fontSize=70" />
 
  Machine Vision?
 
