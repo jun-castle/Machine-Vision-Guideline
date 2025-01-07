@@ -123,6 +123,9 @@
 
 
 ## About Deep Learning with GAN❓ 
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/aa7b1a60-3f41-4884-a22d-0a4583ca94ce" width="550" height="auto" alt="7">
+  </p>
    재구성(Reconstruction) 및 생성(Generation) 기반 이상탐지는 데이터 불균형이 큰 상황에서 정상 데이터만을 학습하여 이를 바탕으로 비정상 데이터를 탐지하는 기법입니다. U-Net과 같은 구조의 네트워크를 사용하여 입력 데이터를 압축(인코딩)하고 다시 복원(디코딩)합니다. 단, 학습이 정상 데이터만으로 이루어지기 때문에 이를 통해 아래와 같은 효과를 기대한다고 할 수 있습니다.<br />
 
   <원리>
