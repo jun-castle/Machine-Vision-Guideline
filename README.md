@@ -47,10 +47,11 @@
 
 ## About Template Matching❓ 
 
-![2](https://github.com/user-attachments/assets/967c8cc0-33b1-48df-b31b-73035d59fc57)
-
   <p align="center">
-  <img src="[https://github.com/user-attachments/assets/af0011c4-2f76-4248-8fea-e18f565d2c83](https://github.com/user-attachments/assets/967c8cc0-33b1-48df-b31b-73035d59fc57)" width="450" height="auto" alt="2">
+<p align="center">
+<img src="https://github.com/user-attachments/assets/967c8cc0-33b1-48df-b31b-73035d59fc57" width="450" height="auto" alt="2">
+</p>
+
   </p>
 
 ## Template Matching 기반으로 image를 crop하기🎯 
