@@ -73,10 +73,13 @@
   * Step 1. 노이즈 제거<br />
     : Edge 검출 전 이미지에 내제하는 노이즈를 줄이기 위해 가우시안 필터를 이용하여 노이즈를 제거하여 이미지를 좀 더 부드럽게 처리합니다.<br />
   * Step 2. 그래디언트 계산<br />
-    : Sobel 등의 미분 필터를 사용해 각 픽셀에서의 주변 픽셀 간의 기울기를 계산하는 과정에서 픽셀 간 edge 강도(gradient magnitude)와 방향(gradient direction)을 얻습니다.
-  * Step 3.<br />
-  * Step 4.<br />
-  * Step 5.
+    : Sobel 등의 미분 필터를 사용해 각 픽셀에서의 주변 픽셀 간의 기울기를 계산하는 과정에서 픽셀 간 edge 강도(gradient magnitude)와 방향(gradient direction)을 얻습니다.<br />
+  * Step 3. 비최대 억제 (Non-maximum Suppression)<br />
+    : 계산된 그래디언트 정보를 바탕으로 edge 픽셀만 남기고 주변 픽셀은 억제하여 edge가 얇고 선명하게 추출되도록 합니다.<br />
+  * Step 4. 이중 임계값 적용 (Double Thresholding)<br />
+    : 비최대 억제 후 남은 픽셀들에 대해서 높은 임계값과 낮은 임계값을 적용합니다. Strong edge는 높은 임계값을 넘고, weak edge는 낮은 임계값만을 넘는 픽셀로 구분됩니다.<br />
+  * Step 5. 엣지 추적 (Edge Tracking by Hysteresis)<br />
+    : Weak edge가 실제 edge의 연장선인지 확인하기 위해서 strong edge와 연결되어 있는지 검사합니다. Strong edge와 연결되어 있는 weak edge는 최종 검출되는 edge에 포함시키고 그렇지 않은 weak edge는 제거합니다.<br />
 
 ## About PCA❓ 
 ## About Data Augmentation❓ 
