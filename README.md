@@ -12,11 +12,11 @@
   - [About Machine Vision❓ ](#about-Machine-Vision)
   - [About Template Matching❓ ](#about-Template-Matching)
   - [Template Matching 기반으로 image를 crop하기 🎯 ](#template-matching-기반으로-image를-crop하기)
-  - [About Edge Detection❓ ](#about-edge-detection)
+  - [About Edge Detection❓🎯 ](#about-edge-detection)
 
-  - [About Class Imbalance and Data Augmentation❓ ](#about-class-imbalance-and-data-augmentation)
-  - [About Deep Learning with GAN❓ ](#about-deep-learning-with-gan)
-  - [About OCR❓ ](#about-ocr)
+  - [About Class Imbalance and Data Augmentation❓🎯 ](#about-class-imbalance-and-data-augmentation)
+  - [About Deep Learning with GAN❓🎯 ](#about-deep-learning-with-gan)
+  - [About OCR❓🎯 ](#about-ocr)
 
 
 
@@ -62,7 +62,7 @@
 
   \* ROI: Region Of Interest (관심영역)
 
-## About Edge Detection❓
+## About Edge Detection❓🎯
   <p align="center">
   <img src="https://github.com/user-attachments/assets/4d0697ee-45fe-4c5c-8ae8-ed4bdc8fd3e5" width="550" height="auto" alt="4">
   </p>
@@ -80,7 +80,7 @@
   * Step 5. 엣지 추적 (Edge Tracking by Hysteresis)<br />
     : Weak edge가 실제 edge의 연장선인지 확인하기 위해서 strong edge와 연결되어 있는지 검사합니다. Strong edge와 연결되어 있는 weak edge는 최종 검출되는 edge에 포함시키고 그렇지 않은 weak edge는 제거합니다.<br />
 
-## About Class Imbalance and Data Augmentation❓ 
+## About Class Imbalance and Data Augmentation❓🎯
   ### **1) class Imbalance**
   <p align="center">
   <img src="https://github.com/user-attachments/assets/7feb3b33-f8e6-49f2-ab49-24344157a95a" width="550" height="auto" alt="5">
@@ -122,7 +122,7 @@
    
 
 
-## About Deep Learning with GAN❓ 
+## About Deep Learning with GAN❓🎯
   <p align="center">
   <img src="https://github.com/user-attachments/assets/aa7b1a60-3f41-4884-a22d-0a4583ca94ce" width="550" height="auto" alt="7">
   </p>
@@ -145,7 +145,7 @@
 
 
   
-## About OCR❓ 
+## About OCR❓🎯
   ### 1. 텍스트 인식과 일반 이미지 인식의 차이점
   * 구조적 특성<br />
   : 일반 이미지 인식은 다양한 객체, 배경, 색상, 질감 등을 포괄하는 반면, 텍스트 인식은 글자와 단어의 형태, 서체, 배열 등에 집중합니다.<br />
