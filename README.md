@@ -10,7 +10,8 @@
   - [About Machine Vision❓ ](#about-Machine-Vision)
   - [About Template Matching❓ ](#about-Template-Matching)
   - [Template Matching 기반으로 image를 crop하기 🎯 ](#template-matching-기반으로-image를-crop하기)
-  
+  - [About Edge Detection❓ ](#about-edge-detection)
+
   - [About PCA❓ ](#about-PCA)
   - [About Data Augmentation❓ ](#About-Data-Augmentation)
   - [About Deep Learning: CNN❓ ](#About-Deep-Learning:-CNN)
@@ -46,6 +47,8 @@
 
 ## About Template Matching❓ 
 ## Template Matching 기반으로 image를 crop하기🎯 
+
+## About Edge Detection❓
 
 ## About PCA❓ 
 ## About Data Augmentation❓ 
