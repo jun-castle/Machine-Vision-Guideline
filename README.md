@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=A3DCBE&height=200&section=header&text=Guideline%20for%20Machine%20Vision&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=A3DCBE&height=200&section=header&text=Guideline%15for%15Machine%15Vision&fontSize=70" />
 </p>
 
 <p align="center">
