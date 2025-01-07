@@ -58,7 +58,7 @@
   <img src="https://github.com/user-attachments/assets/30516582-5414-493b-93f7-736ff675adc0" width="450" height="auto" alt="3">
   </p>
 
-  Step 1. 원본 이미지에서 template image와 가장 유사한 부분을 인식\\
+  Step 1. 원본 이미지에서 template image와 가장 유사한 부분을 인식<br />
   Step 2. 인식된 부분의 중심 픽셀 위치 기준으로 원본 이미지에서 *ROI만 남기도록 crop
 
   \* ROI: Region Of Interest (관심영역)
