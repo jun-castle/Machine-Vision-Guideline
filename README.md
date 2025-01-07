@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=A3DCBE&height=200&section=header&text=Guideline%20for%20beginner&fontSize=70" />
 
-<img srd="https://img.shields.io.badge/#3776AB-1C768F?style-flat-square&logo=Python&logocolor=white"/>
+<img srd="https://img.shields.io.badge/#3776AB-1C768F?style=flat-square&logo=Python&logocolor=white"/>
 
 ## 🛠 기능 엿보기
   - [About Machine Vision❓ ](#about-Machine-Vision)
