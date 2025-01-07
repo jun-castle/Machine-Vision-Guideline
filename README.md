@@ -10,31 +10,6 @@
   - [About Deep Learning: CNN❓ ](#About-Deep-Learning:-CNN)
   - [About GradCAM❓ ](#About-GradCAM)
 
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-## Blank
-
 
 
 ## About Machine Vision❓ 
