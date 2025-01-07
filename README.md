@@ -20,7 +20,7 @@
 
 ## About Machine Vision❓
 <p align="center">
-<img src="https://github.com/user-attachments/assets/af0011c4-2f76-4248-8fea-e18f565d2c83" width="300" height="auto" alt="1">
+<img src="https://github.com/user-attachments/assets/af0011c4-2f76-4248-8fea-e18f565d2c83" width="450" height="auto" alt="1">
 </p>
 
 ## About Template Matching❓ 
