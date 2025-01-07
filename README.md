@@ -19,7 +19,7 @@
 
 
 ## About Machine Vision❓ 
-![1](https://github.com/user-attachments/assets/5b15b033-2f55-4bb9-97fa-3d2c570d7495)
+<img src="https://github.com/user-attachments/assets/5b15b033-2f55-4bb9-97fa-3d2c570d7495" width="300" height="200" alt="1">
 
 ## About Template Matching❓ 
 ## Template Matching 기반으로 image를 crop하기🎯 
