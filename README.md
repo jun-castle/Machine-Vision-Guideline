@@ -14,7 +14,7 @@
 
   - [About PCA❓ ](#about-PCA)
   - [About Data Augmentation❓ ](#About-Data-Augmentation)
-  - [About Deep Learning: CNN❓ ](#About-Deep-Learning:-CNN)
+  - [About Deep Learning with CNN❓ ](#About-Deep-Learning-with-CNN)
   - [About GradCAM❓ ](#About-GradCAM)
 
 
@@ -52,7 +52,7 @@
 
 ## About PCA❓ 
 ## About Data Augmentation❓ 
-## About Deep Learning: CNN❓ 
+## About Deep Learning with CNN❓ 
 ## About GradCAM❓ 
 
 
